@@ -54,7 +54,7 @@ Editors are those who have taken part in the creative direction and visioning of
 Katherine Blanchette, Paul Bremner, Steve Crawford, Chelle Gentemann, Diana Ly, Paige Martin, Aaron McKinnon
 
 ## Original Artwork and Graphics
-Miki Huynh
+Miki Huynh, Tanner Boeger
 
 ## Reviewers
 Reviewers are those who have reviewed the curriculum content and provided meaningful feedback.
