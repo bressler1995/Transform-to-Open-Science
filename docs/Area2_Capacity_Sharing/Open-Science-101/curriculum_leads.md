@@ -71,7 +71,7 @@ This team manages the curriculum content creation and the work to facilitate con
 * Porsche Parker – Project Support
 
 Former members: 
-* Vandahana Lal – Deputy Project Manager 
+* Vandhana Lal – Deputy Project Manager 
 * Natasha Batalha – Project Scientist
 * Cassie Conley – Project Scientist
 * Pamela Marcum – Project Scientist
