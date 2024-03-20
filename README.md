@@ -4,13 +4,13 @@
 
 This repository is used to openly share information about TOPS, the Year of Open Science, the Open Science 101 Curriculum, and more.
 
-### The TOPS Website
-
-The TOPS GitHub repository contains quite a bit of useful information.  However, if you would like omething more visual we invite to check out our website: [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
-
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+### The TOPS Website
+
+The TOPS GitHub repository contains quite a bit of useful information.  However, if you would like omething more visual we invite to check out our website: [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
@@ -25,12 +25,11 @@ The world is changing rapidly. New problems emerge everyday and it takes groundb
 
 NASA's Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will **broaden participation, increase accessibility to knowledge, and embrace new technologies** that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!
 
-### TOPS Mission
-Inspire and empower scientists, researchers, and communities to embrace open science as a catalyst for positive change, leading to a more equitable and impactful scientific ecosystem.
+### TOPS Mission and Strategic Objectives
+It is our goal to inspire and empower scientists, researchers, and communities to embrace Open Science as a catalyst for positive change, leading to a more equitable, inclusive, and impactful scientific ecosystem.
 
-### Strategic Objectives
-
-Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It's a 5 year journey that will  
+These benefits ensure that research is faster, and that that minds from all walks of life can participate in science. TOPS is likewise NASA's ambitious plan to accelerate open science practices. It's a 5 year journey that will:
+ 
 1. Accelerate major scientific discoveries 
 2. Broaden participation by historically excluded communities 
 3. Increase understanding and adoption of open science principles and techniques
@@ -101,7 +100,7 @@ Please [join the TOPS email list](https://nasa.github.io/Transform-to-Open-Scien
 ### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](./docs/Area1_Engagement/Newsletters).
 
-### Contribute to the TOPS GitHub Repository
+## Contribute to the TOPS GitHub Repository
 
 Ready to start transforming towards open science with us? A great way to do that is by [contributing to our repository!](./CONTRIBUTING.md) 
 
