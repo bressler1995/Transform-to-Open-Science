@@ -118,7 +118,7 @@ For a more detailed guide on how to use these mechanisms, check out our contribu
 
 ## Have a Question for TOPS?
 
-There is a possibility that your question has been asked before. Check our [FAQ's](#frequently-asked-questions) for answers to questions that we received frequently from our community.
+There is a possibility that your question has been asked before. Check our [FAQ's](#frequently-asked-questions) for answers to questions that we receive frequently from our community.
 
 ### Start a Discussion
 
