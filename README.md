@@ -130,10 +130,10 @@ Reach out to TOPS directly [using our contact form](https://docs.google.com/form
 **We hope you will join us and champion open science!**
 
 ### Frequently Asked Questions
-This page is a living document of the most common questions posed to the TOPS team. It is our hope that these answers will benefit the wider community. Further details can be found in the transcripts of our community events on our [community forum](./Events/Community_Forums/) and [community panel](./Events/Community_Panels/) pages.
+These are the most common questions that the TOPS team has received to date. It is our hope that these answers will help the community find answers to questions quickly.
 
 <details> 
-<summary><span style="font-size:x-large;">NASA's Open Science 101 </span></summary>
+<summary><span>NASA's Open Science 101 </span></summary>
 
 #### What steps should I take if I haven't received an email to accept my Open Science badge?
 
@@ -204,7 +204,7 @@ NASA has undertaken several initiatives to promote and advance open science prac
 </details> 
 
 <details> 
-<summary><span style="font-size:x-large;">Open Science – General </span></summary>
+<summary><span>Open Science – General </span></summary>
 
 #### What is open science?
 
