@@ -89,10 +89,10 @@ For documentation and resources related to the curriculum, check [this directory
 We would like to give a special thank you to [organizations that participated](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/readme.html#id1) with us in a Year of Open Science.
 
 ## Implementation
-- [Area 1: Engagement](./docs/Area1_Engagement/readme.md): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
-- [Area 2: Capacity sharing](./docs/Area2_Capacity_Sharing/readme.md): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
-- [Area 3: Incentives](./docs/Area3_Incentives/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
-- [Area 4: Moving towards openness](./docs/Area4_Moving_To_Openness/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
+- [Area 1: Engagement](./Docs/Strategies/Area-1/): Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.
+- [Area 2: Capacity sharing](./Docs/Strategies/Area-2/): Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.
+- [Area 3: Incentives](./Docs/Strategies/Area-3/readme.md): Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.
+- [Area 4: Moving towards openness](./Docs/Strategies/Area-4/readme.md): Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.
 
 ## TOPS Newsletter
 Please [join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.

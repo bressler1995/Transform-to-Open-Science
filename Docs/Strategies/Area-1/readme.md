@@ -1,4 +1,4 @@
-# Engagement Strategy
+# Area 1 - Engagement Strategy
 
 TOPS is made up of a small and passionate team that uses [inreach](./Outreach/inreach.md) and [outreach](./Outreach/outreach.md) strategies to create community and spark positive change towards open science. We are raising awareness, generating excitement, and creating buy-in with stakeholders every day as we move closer to full adoption of open science at NASA and beyond.
 

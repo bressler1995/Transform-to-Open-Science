@@ -1,4 +1,4 @@
-# Incentives for Open Science
+# Area 3 - Incentives for Open Science
 
 The current incentive structure in science is largely based on publications and citations. In open science, we are working to acknowledge the many different aspects of science and research that are essential to scientific advancement, such as writing code, managing data, mentoring students, etc. By embracing open science principles and practices, scientists and researchers can increase the impact of their scientific efforts. Incentives for open science are an active area of development, and TOPS and NASA are contributing to additional incentives to facilitate the transition to a more open scientific ecosystem.
 
