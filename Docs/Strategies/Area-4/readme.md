@@ -1,4 +1,4 @@
-# Moving towards Open Science
+# Area 4 - Moving towards Open Science
 
 We welcome pull requests adding to these timelines or suggesting new timelines!
 
@@ -17,5 +17,3 @@ A [list](./global_policies.md) of open science policies from governments around 
 ## Funding Opportunities
 
 A list of open science [funding opportunities](./funding_opportunities.md). Please feel free to make pull requests and add new opportunities.
-
-
