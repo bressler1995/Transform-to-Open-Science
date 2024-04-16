@@ -129,7 +129,7 @@ Reach out to TOPS directly [using our contact form](https://docs.google.com/form
 
 **We hope you will join us and champion open science!**
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 This page is a living document of the most common questions posed to the TOPS team. It is our hope that these answers will benefit the wider community. Further details can be found in the transcripts of our community events on our [community forum](./Events/Community_Forums/) and [community panel](./Events/Community_Panels/) pages.
 
 <details> 
