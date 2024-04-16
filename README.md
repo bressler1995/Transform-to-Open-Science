@@ -75,11 +75,11 @@ To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscien
 
 #### Existing Instructors
 
-Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md).
+Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./Docs/Courses/Open-Science-101/workshop_listings.md).
 
 ### Open Science 101 Documentation
 
-For documentation and resources related to the curriculum, check [this directory](./docs/Area2_Capacity_Sharing/Open-Science-101/).
+For documentation and resources related to the curriculum, check [this directory](./Docs/Courses/Open-Science-101).
 
 ## TOPS and the Year of Open Science
 
