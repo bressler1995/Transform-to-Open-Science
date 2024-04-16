@@ -8,13 +8,13 @@ The curriculum is available on the [NASA TOPS Github site](https://nasa.github.i
 
 ## Overview of 5 Modules
 
-1.  [Ethos of Open Science](./modules/open_science_ethos_module.md)
-2.  [Open Tools and Resources](./modules/open_tools_module.md)
-3.  [Open Data](./modules/open_data_module.md)
-4.  [Open Code](./modules/open_code_module.md)
-5.  [Open Results](./modules/open_results_module.md)
+1.  [Ethos of Open Science](./Modules/open_science_ethos_module.md)
+2.  [Open Tools and Resources](./Modules/open_tools_module.md)
+3.  [Open Data](./Modules/open_data_module.md)
+4.  [Open Code](./Modules/open_code_module.md)
+5.  [Open Results](./Modules/open_results_module.md)
 
-<img src="./images/overviewimage.png" style="width: 100%; height: auto;" />
+<img src="../../../Assets/Repository/Open-Science-101/overviewimage.png" style="width: 100%; height: auto;" />
 
 Content for the Open Science 101 is being derived from several amazing resources, including: [OpenSciency](https://github.com/opensciency/), [OpenbyDesign](https://github.com/DSI-CORES/OpenByDesign/tree/master/src), [Utrecht](https://openscience-utrecht.com/what-is-open-science/), [Mozilla](https://mozillascience.github.io/study-group-orientation/4-open-research101.html), and more....
 
