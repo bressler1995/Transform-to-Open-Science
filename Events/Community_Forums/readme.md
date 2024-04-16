@@ -1,4 +1,4 @@
-# TOPS Community Forum
+# TOPS Community Forums
 
 Approximately once a month, we hold a public meeting where we discuss parts of the TOPS mission, have guests who discuss their open science activities, or just talk about open science. We try to keep it interactive, with lots of questions and discussion. Come join us! Public participation always encouraged!
 

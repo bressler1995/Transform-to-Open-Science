@@ -1,3 +1,5 @@
+# Code of Conduct
+
 ## Condensed Version
 
 Be kind and collaborative. Critique ideas, not people. Communicate freely while being receptive to a diversity of opinions, viewpoints, and backgrounds.
@@ -45,5 +47,4 @@ without warning.
 #### Reporting Unacceptable Behaviors
 If you are the subject or have witnessed any unacceptable behaviors, including but not restricted to the ones listed above, please 
 immediately notify a meeting host. Notification should be done by contacting a host via direct chat or by emailing <chelle.gentemann@nasa.gov> 
-or <yvonne.ivey@nasa.gov>. Anyone experiencing or witnessing behaviors that constitute an immediate or serious threat to public safety is advised
-to call 911 or your local emergency contact number.
+or <yvonne.ivey@nasa.gov>. Anyone experiencing or witnessing behaviors that constitute an immediate or serious threat to public safety is advised to call 911 or your local emergency contact number.
