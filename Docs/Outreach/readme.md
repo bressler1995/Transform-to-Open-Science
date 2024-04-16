@@ -25,7 +25,7 @@ The TOPS Community Panel is another way we create community and discover best pr
 
 ## Conferences and Workshops
 
-Throughout 2023, the Year of Open Science, TOPS will build capacity for practicing open-source science by [attending scientific conferences](/docs/Area1_Engagement/Outreach/tops_conferences.md) across the nation. 
+Throughout 2023, the Year of Open Science, TOPS will build capacity for practicing open-source science by [attending scientific conferences](../../Events/TOPS-Conferences) across the nation. 
 
 Our team will: 
 
@@ -48,4 +48,4 @@ NASA TOPS will promote the inclusion of citizen and participatory science as int
 ## Want TOPS at Your Event?
 [Let us know!](https://github.com/nasa/Transform-to-Open-Science/discussions) We want to hear from you!
 
-[Sign up to receive emails](https://nasa.github.io/Transform-to-Open-Science/signup/)
+You can also receive new open science stories as they are released by [subscribing to our newsletter](https://nasa.github.io/Transform-to-Open-Science/signup/).
