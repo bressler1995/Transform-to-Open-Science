@@ -15,12 +15,14 @@ Resources for proposal development are available [here](./proposal_resources.md)
 The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD). More information on the ScienceCore is available [here](/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) and on the Open Science 101 is available [here](/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md).
 
 ## TOPST FAQ is [here](https://doi.org/10.5281/zenodo.7194641).
+
 *For general FAQs related to ROSES-2022 go [HERE](https://science.nasa.gov/researchers/sara/faqs#14).*
 
 ## Additional Proposal Resources
 Proposal resources curated by the TOPS team are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 
 ## Related Recordings
+
 **Full details regarding TOPST can be learned from the October 13th and November 10th TOPS Community Forum:**
 * [Link to recording - October](https://www.youtube.com/watch?v=wTtmdWqUr1c)
 * [Link to deck - October](https://doi.org/10.5281/zenodo.7195790)
