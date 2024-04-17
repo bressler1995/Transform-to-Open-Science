@@ -10,3 +10,7 @@ A [list](./federal_guidance.md) of open science guidance from the US Federal gov
 
 ## Global Guidance
 A [list](./global_policies.md) of open science policies from governments around the world that advances open science.
+
+## NASA's Interpretation of Open Science
+
+Information on NASA's interpertation of Open Science and how that fits with initiatives like the Open-Source Science Initiative (OSSI) and Transform to Open Science (TOPS) can be found [here](./open_science.md).
