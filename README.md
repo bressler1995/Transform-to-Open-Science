@@ -10,7 +10,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 ### The TOPS Website
 
-The TOPS GitHub repository contains quite a bit of useful information.  However, if you would like omething more visual we invite to check out our website: [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
+The TOPS GitHub repository contains quite a bit of useful information.  However, if you would like to visually learn more about TOPS, discover how you can take Open Science 101, read stories, and much more, we invite you to check out our website here: [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="250" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
