@@ -1,0 +1,13 @@
+# TOPS Trainings
+
+In addition to the familiar Open Science 101 course, TOPS is thrilled to showcase a plethora of supplementary trainings curated by esteemed grantees.
+
+### Open Science 101
+
+The Open Science 101 aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end.
+
+Read More About Open Science 101
+
+### ScienceCore
+
+Read More about ScienceCore
