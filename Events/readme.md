@@ -4,6 +4,5 @@ TOPS hosts and participates in a variety of events to promote open science pract
 
 - [Community Forums](./Community_Forums/)
 - [Community Panels](./Community_Panels/)
-- [Hackathons](./Hackathons/)
 - [TOPS Conferences](./TOPS-Conferences/)
 - [Year of Open Science Conferences](./Year-of-Open-Science/)
