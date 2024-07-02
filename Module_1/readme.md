@@ -4,7 +4,7 @@
 
 ## About This Module
 
-Welcome to this introductory module on open science. Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. In this module, you take a closer look at what open science is, the current landscape as well as the benefits and challenges. You then get a glimpse into the practice of open science including a case study. To start your journey with open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
+Welcome to this introductory [^1]module on open science. Open Science is the principle and practice of making research products and processes available to all, [^2]while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, [^3]and equity. In this module, you take a closer look at what open science is, the current landscape as well as the benefits and [^4]challenges. You then get a glimpse into the practice of open science including a case study. To start your journey with [^5]open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
 
 ### Target Audience
 
@@ -105,3 +105,9 @@ Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 * [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
 * [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
 * [The Ethos of the Open Science Summary](./Lesson_5#the-ethos-of-the-open-science-summary)
+
+[^1]: First footnote reference
+[^2]: Second footnote reference
+[^3]: Third footnote reference
+[^4]: Fourth footnote reference
+[^5]: Fifth footnote reference
