@@ -106,7 +106,7 @@ Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 * [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
 * [The Ethos of the Open Science Summary](./Lesson_5#the-ethos-of-the-open-science-summary)
 
-[^1]: First footnote reference
+[^1]: First footnote [reference](https://google.com)
 [^2]: Second footnote reference
 [^3]: Third footnote reference
 [^4]: Fourth footnote reference
