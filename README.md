@@ -49,11 +49,17 @@ To get badged for Open Science 101, find enrollment information [here](https://n
 
 ### Cite Open Science 101
 
-Are you a researcher looking to cite our curriculum?  The following DOI information will allow you to cite the current version:
+Are you a researcher looking to cite our curriculum?  The following method is recommended for citing the current version of OS101:
+
+#### Recommended Citation Method
 
 NASA TOPS Open Science 101 Curriculum Development Team. (2023). NASA TOPS Open Science 101 version 1.0.0. Zenodo. DOI: 10.5281/zenodo.10161527.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10161527.svg)](https://doi.org/10.5281/zenodo.10161527)
+
+#### Alternative Citation Method
+
+Visit our [Open Science 101 branch](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) for more citation options.  When you are viewing this branch, refer to [this documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) to find the "Cite This Repository" Option.
 
 ### Contribute to Open Science 101
 
