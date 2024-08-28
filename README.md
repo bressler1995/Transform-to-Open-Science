@@ -59,7 +59,9 @@ NASA TOPS Open Science 101 Curriculum Development Team. (2023). NASA TOPS Open S
 
 #### Alternative Citation Method
 
-Visit our [Open Science 101 branch](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) for more citation options.  When you are viewing this branch, refer to [this documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) to find the "Cite This Repository" Option.
+Visit our [Open Science 101 branch](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) for more citation options.  When you are viewing this branch, look for the "Cite This Repository" option on the right hand side:
+
+<img style="width: 400px" src="https://docs.github.com/assets/cb-223034/mw-1440/images/help/repository/citation-link.webp">
 
 ### Contribute to Open Science 101
 
