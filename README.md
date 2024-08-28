@@ -29,7 +29,7 @@ Inspire and empower scientists, researchers, and communities to embrace open sci
 
 ### Strategic Objectives
 
-Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will  
+Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA's ambitious plan to accelerate open science practices that will:  
 1. Accelerate major scientific discoveries 
 2. Broaden participation by historically excluded communities 
 3. Increase understanding and adoption of open science principles and techniques

@@ -15,7 +15,3 @@ Q&A about the Open Science 101 can be found in our TOPS [FAQ document](/tops_faq
 ## ScienceCore
 
 Once scientists have been introduced to core open science skills, they may be interested in exploring domain specific curriculum such as data science, using computing resources, or how to conduct open science in a particular field. This information will be built into the [ScienceCore](./ScienceCore/readme.md). For some learners, it is these domain specific modules that may attract them to learning more about open science. 
-
-## Organize Your Own Open Science Activity
-
-After taking Open Science 101 or the ScienceCore, we hope everyone is inspired to host their own conference or workshop on open science. To get started, head over to our [Organizing Open Science Activities](https://nasa.github.io/Transform-to-Open-Science-Book/Organizing_OS_Activities/readme.html) to view templates, examples, and TOPS' own abstract submissions for inspiration. 

@@ -2,7 +2,7 @@
 
 
 # Creating Community: Our Ground Game
-Open Science is built on community. Central to its success is diversity, inclusivity, accessibility and equity. NASA’s Transform to Open Science (TOPS) efforts can’t be successful without working with diverse communities. When we learn from each other, we all come out stronger. 
+Open Science is built on community. Central to its success is diversity, inclusivity, accessibility and equity. NASA’s Transform to Open Science (TOPS) efforts can't be successful without working with diverse communities. When we learn from each other, we all come out stronger. 
 
 
 With 2023 on the horizon and the Year of Open Science quickly approaching, our efforts revolve around two primary areas of focus: [inreach to existing](./inreach.md) communities of practice and [outreach](./outreach.md) to communities of potential. 
@@ -14,11 +14,9 @@ These sessions will educate the public about NASA’s Open-Source science Initia
 
 ### Come join us! 
 
-Upcoming Forum: [March Community Forum on Open Science: Challenges and Opportunities for Diversity, Equity, and Inclusion](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230309_community_forum.md) 
+For a list of past and upcoming community forums, please visit our [community forums page](/docs/Area1_Engagement/Community_Forums/).  
 
-When: March 09, 2022, 1PM EDT (UTC -4)
-
-[Registration Link](https://go.nasa.gov/3EG6uye)
+#### Submit Questions
 
 [Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
 
@@ -37,7 +35,7 @@ Our team will:
  - Educate stakeholders through a comprehensive curriculum workshop
 
 ## Citizen Science
-We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. [In citizen science](https://www.citizenscience.gov), community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems."
+We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. [In citizen science](https://www.citizenscience.gov), community members "formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems."
 
 NASA has been engaged in numerous citizen science projects across SMD and this is another exciting opportunity to do more! 
 
