@@ -208,12 +208,6 @@ Open an issue, pull request, or discussion to help improve our main GitHub conte
 
 For more details, check out [contributing guide](/CONTRIBUTING.md).
 
-## Announcements
-
-- Open Science 101 in Spanish content has been released on GitHub.
-- Open Science 101 has been [released](https://github.com/nasa/Transform-to-Open-Science/releases/tag/v1.0.0) and is now citable!
-- The development version of Open Science 101 has been relocated [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).  Read more about contributing [here](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
-
 <!--
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 -->
