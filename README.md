@@ -21,14 +21,12 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 ## Introduction
 
-### What is Open Science?
-Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. ([source](https://open.science.gov/))
-
-### Who is TOPS?
-
 Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA's Open-Source Science Initiative. By broadening participation and increasing access to knowledge, NASA's TOPS initiative will enable the creation of a scientific culture that is ready for 21st century challenges.
 
 To learn more about TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).
+
+### What is Open Science?
+Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. ([source](https://open.science.gov/))
 
 ### Strategic Objectives
 
