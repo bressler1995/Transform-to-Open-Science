@@ -1,8 +1,8 @@
 # Contributing to Our GitHub
 
-This page is your one-stop shop for uncovering the many resources for open science that are on the TOPS GitHub! Read on to learn more about how to use our GitHub, how to engage with TOPS and participate in the Year of Open Science, and identify resources to help you, your research team, and your organization get started with open science.
+The goal of this page is to provide a comprensive guide for community members to contribute to TOPS documentation, and the Open Science 101 curriculum, as well as start discussions pertaining to TOPS and Open Science.
 
-Before contributing, please read our [License](./LICENSE.md) and our [Code of Conduct](./CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
+Before contributing, please read our [License](./LICENSE.md) and our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## We Want Your Help!
 
