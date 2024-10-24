@@ -4,9 +4,9 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 [![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="200" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
-
 ## Repository Navigation
+
+<img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="200" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
 - [Home](#)
   - Introduction
@@ -15,6 +15,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
   - Join TOPS Mailing List
   - Have a Question for TOPS?
   - Announcements
+- [Past Newsletter](#)
 - [Trainings](#)
   - Open Science 101
   - Open Science Essentials
@@ -34,15 +35,16 @@ TOPS is NASA's ambitious plan to accelerate open science practices by:
 2. Broaden participation by historically excluded communities 
 3. Increase understanding and adoption of open science principles and techniques
 
-## Open Science 101
+## TOPS Newsletter
 
-The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan.
-
-## Sign up for the TOPS Newsletter
-Please [join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about further activities and become more involved! [Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions) are enabled for this GitHub repository, so feel free to ask questions or join conversations there.
+[Join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about open science activities, stories, news, and funding opportunities.
 
 ### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](./docs/Area1_Engagement/Newsletters).
+
+## Open Science 101 Curriculum
+
+The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan.
 
 ## Have a Question for TOPS?
 
