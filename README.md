@@ -10,12 +10,13 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 - [Home](#)
   - Introduction
-  - Open Science 101 Overview
-  - TOPS and the Year of Open Science
-  - Join TOPS Mailing List
+  - TOPS Newsletter
+  - TOPS Branding
+  - Open Science 101 Curriculum
   - Have a Question for TOPS?
-  - Announcements
-- [Past Newsletter](#)
+  - Contributors
+- [Conferences](#)
+- [Past Newsletters](#)
 - [Trainings](#)
   - Open Science 101
   - Open Science Essentials
@@ -25,7 +26,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA's Open-Source Science Initiative. By broadening participation and increasing access to knowledge, NASA's TOPS initiative will enable the creation of a scientific culture that is ready for 21st century challenges.
 
-To learn more about Open Science and TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).
+To learn more about Open Science and TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).  To view an archive of old information, [click here](#).
 
 ### Strategic Objectives
 
@@ -41,6 +42,9 @@ TOPS is NASA's ambitious plan to accelerate open science practices by:
 
 ### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](./docs/Area1_Engagement/Newsletters).
+
+## TOPS Branding
+Are you a third-party group or partner that would like to use TOPS branding? [Visit this link](https://zenodo.org/records/5296672) for a version of the TOPS insignia intended for use by the mentioned groups. 
 
 ## Open Science 101 Curriculum
 
