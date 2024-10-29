@@ -8,19 +8,19 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="200" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
-- [Home](#)
-  - Introduction
-  - TOPS Newsletter
-  - TOPS Branding
-  - Open Science 101 Curriculum
-  - Have a Question for TOPS?
-  - Contributors
+- Home
+  - [Introduction](#introduction)
+  - [TOPS Newsletter](#tops-newsletter)
+  - [TOPS Branding](#tops-branding)
+  - [Open Science 101 Curriculum](#open-science-101-curriculum)
+  - [Have a Question for TOPS?](#have-a-question-for-tops)
+  - [Contributors](#contributors)
 - [Conferences](#)
 - [TOPS Newsletter](#)
-- [Trainings](#)
-  - Open Science 101
-  - Open Science Essentials
-  - ScienceCore
+- [Trainings](./Trainings)
+  - [Open Science 101](./Trainings/#open-science-101)
+  - [ScienceCore](./Trainings/#sciencecore)
+  - [Open Science Essentials](./Trainings/#open-science-essentials)
 
 ## Introduction
 
@@ -167,7 +167,7 @@ Start a [discussion](https://github.com/nasa/Transform-to-Open-Science/discussio
 ### Contact TOPS
 Reach out to TOPS directly at [hq-openscience@mail.nasa.gov](mailto:hq-openscience@mail.nasa.gov).
 
-## Contributors ✨
+## Contributors
 
 A special thank you to everyone who has contributed to the TOPS GitHub repository.  Check the ([emoji key](https://allcontributors.org/docs/en/emoji-key)) to decipher the type of content that a contributor helped with!
 
