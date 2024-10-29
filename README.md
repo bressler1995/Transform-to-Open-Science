@@ -41,7 +41,7 @@ TOPS is NASA's ambitious plan to accelerate open science practices by:
 [Join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about open science activities, stories, news, and funding opportunities.
 
 ### Past Newsletter Releases
-For a preview of our content from our email list, feel free to read our [past newsletter releases](./docs/Area1_Engagement/Newsletters).
+For a preview of our content from our email list, feel free to read our [past newsletter releases](./TOPS_Newsletter/).
 
 ## TOPS Branding
 Are you a third-party group or partner that would like to use TOPS branding? [Visit this link](https://zenodo.org/records/5296672) for a version of the TOPS insignia intended for use by the mentioned groups. 
@@ -49,6 +49,8 @@ Are you a third-party group or partner that would like to use TOPS branding? [Vi
 ## Open Science 101 Curriculum
 
 The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan.
+
+Learn more on our [Trainings page](./Trainings) and on the [TOPS website](https://science.nasa.gov/open-science/tops/os101/).
 
 ## Have a Question for TOPS?
 
