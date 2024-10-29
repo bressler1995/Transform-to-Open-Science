@@ -16,7 +16,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
   - Have a Question for TOPS?
   - Contributors
 - [Conferences](#)
-- [Past Newsletters](#)
+- [TOPS Newsletter](#)
 - [Trainings](#)
   - Open Science 101
   - Open Science Essentials
