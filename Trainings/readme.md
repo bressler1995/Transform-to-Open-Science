@@ -1,8 +1,17 @@
 # Open Science Trainings
 
+## Navigation
+- [Open Science 101](#open-science-101)
+- [Science Core](#sciencecore)
+- [Open Science Essentials](#open-science-essentials)
+
 ## Open Science 101
 
-### Take Open Science 101 and Receive a Digital Badge
+<img src="./Assets/overview.jpg" style="width: 100%; height: auto;">
+
+Discover all 5 modules from the Open Science 101 curriculum by [visiting our website](https://science.nasa.gov/open-science/tops/os101).
+
+### Earn Your Digital Badge
 
 To get badged for Open Science 101, explore options for self guided enrollment and instructor led trainings [on our website](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
 
@@ -37,3 +46,18 @@ To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscien
 Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md).
 
 ## ScienceCore
+
+The Open Science 101 curriculum will be expanded to support researchers looking to engage with NASA as NASA moves to adopt more open science requirements (*e.g.*, [Scientific Information Policy](https://science.nasa.gov/researchers/science-data/science-information-policy) and [ROSES](https://science.nasa.gov/researchers/sara/grant-solicitations) opportunities). In addition to the skills obtained from Open Science 101, scientists will need to grow skills specific to their area of study. Potential ScienceCore topics are data science, using cloud computing resources, how to share biological samples, how to utilize MakerSpaces or shared labs, etc.
+
+**TOPS is still developing the plan and incentive structure for the ScienceCore. If you have any ideas, utilize GitHub discussions and share them with us!**
+
+### Module Descriptions
+
+The design calls for several, individual 2.5-hour modules that focus on data science skills and domain-specific open science practices that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
+* Each course module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities.
+* All content will be assigned a CC0 or CC-BY license.
+
+
+## Open Science Essentials
+
+Open Science essentials will be a condensed course based on Open Science 101 that is designed for managers to become familiar with the principles of Open Science so that they can implement Open Science practices in the work place, and in employee trainings.  More information will be posted here as development is completed.
