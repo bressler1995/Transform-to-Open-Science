@@ -9,7 +9,10 @@
 
 <img src="./Assets/overview.jpg" style="width: 100%; height: auto;">
 
-Discover all **5 modules** from the Open Science 101 curriculum by [visiting our website](https://science.nasa.gov/open-science/tops/os101).
+Discover all **5 modules** from the Open Science 101 curriculum by:
+
+- [Visiting our website](https://science.nasa.gov/open-science/tops/os101).
+- [Reading this detailed structure](./OS101_Structure.md)
 
 ### Earn Your Digital Badge
 
@@ -31,7 +34,7 @@ TOPS has created a development version of the curriculum written in Markdown to 
 
 ### Contributors
 
-To learn more about the amazing minds that made Open Science 101 possible, visit our [Open Science 101 contributors page](./Contributors.md).
+To learn more about the amazing minds that made Open Science 101 possible, visit our [Open Science 101 contributors page](./OS101_Contributors.md).
 
 #### Methods of Contributing
 
@@ -47,7 +50,7 @@ To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscien
 
 #### Existing Instructors
 
-Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./docs/Area2_Capacity_Sharing/Open-Science-101/workshop_listings.md).
+Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./OS101_Workshop_Reqs.md).
 
 ## ScienceCore
 
