@@ -1,4 +1,4 @@
-# Contributors
+# Open Science 101 Contributors
 
 The OS101 content was developed by the hard work of many people around the globe. The teams that have contributed are listed below in alphabetical order in each section.  OS101 materials can be cited through the project’s Zenodo archive using DOI: 10.5281/zenodo.10161527.
 

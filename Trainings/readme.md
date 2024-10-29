@@ -29,6 +29,10 @@ TOPS has created a development version of the curriculum written in Markdown to 
 
 **Note:** The GitHub version of the curriculum will not allow  you to get credit for taking the curriculum.  To get badged for Open Science 101 [sign up here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
 
+### Contributors
+
+To learn more about the amazing minds that made Open Science 101 possible, visit our [Open Science 101 contributors page](./Contributors.md).
+
 #### Methods of Contributing
 
 To contribute, you can open a [pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
