@@ -9,7 +9,7 @@
 
 <img src="./Assets/overview.jpg" style="width: 100%; height: auto;">
 
-Discover all 5 modules from the Open Science 101 curriculum by [visiting our website](https://science.nasa.gov/open-science/tops/os101).
+Discover all **5 modules** from the Open Science 101 curriculum by [visiting our website](https://science.nasa.gov/open-science/tops/os101).
 
 ### Earn Your Digital Badge
 
