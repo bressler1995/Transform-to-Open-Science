@@ -1,13 +1,13 @@
 # TOPS Community Forum
 
-Approximately once a month, we hold a public meeting where we discuss parts of the TOPS mission, have guests who discuss their open science activities, or just talk about open science. We try to keep it interactive, with lots of questions and discussion. Come join us! Public participation always encouraged!
+TOPS Community Forums are public meetings where we discuss the TOPS initiative, open science activities from special guests, and open science at large. We try to make these sessions interactive, with plenty of room for questions and discussions. Come join us! Public participation always encouraged!
 
 ## Next Forum
 
 * August 13 2024 [Forum](20240813_community_forum.md)
 Exploring Citizen Science: Help NASA Make Space Discoveries
 
-## Previous Forums
+## 2023
 
 * November 09 2023 [Forum](20231109_community_forum.md)
 * September 14 2023 [Forum](20230914_community_forum.md)
@@ -16,6 +16,9 @@ Exploring Citizen Science: Help NASA Make Space Discoveries
 * April 13 2023 [Forum](20230413_community_forum.md)
 * March 9 2023 [Forum](20230309_community_forum.md)
 * February 9 2023 [Forum](20230209_community_forum.md)
+
+## 2022
+
 * November 10 2022 [Forum](./2022_Forums/20221110_community_forum.md). 
 * October 13 2022 [Forum](./2022_Forums/20221013_community_forum.md).
 * September 08 2022 [Forum](./2022_Forums/20220908_community_forum.md). 
