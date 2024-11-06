@@ -7,13 +7,6 @@ Before contributing, please read our [License](./LICENSE.md) and our [Code of Co
 ## Code of Conduct
 The [TOPS code of conduct](./CODE_OF_CONDUCT.md) is a great guide for interacting with our community and contributing to our repository content in a respectful and professional manner.
 
-## Types of Contributors
-
-Depending on your level of interaction with TOPS and the TOPS GitHub, contributors can be defined as: 
-- A **community member**: anyone in the open science community who visits a TOPS site, utilizes TOPS online tools, or attends a TOPS event.
-- A **participant**: anyone who posts a comment or poses a question in the *GitHub Discussion Space*, reports a site bug or requests a new resource in *GitHub Issues*, or attends a TOPS event and utilizes any virtual chat features during that event. 
-- A **contributor**: anyone who forks this GitHub repository and submits pull requests to make additions or changes to the posted content.
-
 
 ## Methods of Contributing
 There are three, major ways to contribute to the TOPS GitHub. 
