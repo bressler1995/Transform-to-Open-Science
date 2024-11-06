@@ -50,3 +50,14 @@ A community of practice is defined as a group of people who share a craft or a p
 ### TOPS Champions
 
 TOPS Champions are open science ambassadors and subject matter experts that are present at 5 NASA centers. These individuals include scientists, staff, thought-leaders, and YOU! We can't build a robust community without your help. If you are interested in becoming a TOPS Champion, contact us and join our email list!
+
+## Citizen Science
+We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. In citizen science, community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems."
+
+NASA has been engaged in numerous citizen science projects across SMD and this is another exciting opportunity to do more!
+
+NASA TOPS will promote the inclusion of citizen and participatory science as integral parts of open science policies and practices at the national and international levels through the following tactics. We will:
+
+- Host webinars or listening sessions with the citizen science organizations
+- Promote TOPS curricula across their organization/communities
+- Highlight success stories around open science efforts
