@@ -22,37 +22,7 @@ To encourage participation, the TOPS team leverages tools such as Jamboard, Ment
 
 TOPS Slack is used for project coordination among NASA civil servants and scientists already involved in open science at NASA, and by collaborators such as the Open Science 101 SMEs and TOPS panel members.
 
-The TOPS Slack is primarily used to share the date, time, and location of open science events occurring at NASA and beyond. As such, Slack is utilized primarily as a coordination and information-sharing platform, and is not being actively used for reinforcing and building community. 
-
-
-## Open Science Stories Blog
-
-<!--
-The purpose of the open science stories is to demonstrate the benefits of open science through examples from the NASA science community, and to provide examples of scientists who have overcome barriers and challenges in order to practice science openly. They are found [here](/docs/Area1_Engagement/Open-Science-Stories/readme.md) and on the [science.nasa.gov blog](https://science.nasa.gov/open-science/transform-to-open-science/stories).
--->
-
-The purpose of the open science stories is to demonstrate the benefits of open science through examples from the NASA science community, and to provide examples of scientists who have overcome barriers and challenges in order to practice science openly. They are found [here](/docs/Area1_Engagement/Open-Science-Stories/readme.md).
-
-
-## TOPS GitHub
-
-The TOPS GitHub is primarily used for information sharing. The different “areas” are aligned with TOPS areas of action, and contain recommendations for engagement, curriculum formation, and broadening participation in open science at NASA. 
-
-There are some underutilized GitHub features which could be leveraged to create an atmosphere that encourages camaraderie, resource sharing, and genuine connection. Chief among these are GitHub Issues and GitHub Discussions. GitHub designed *Issues* primarily, for the reporting of bugs and feature defects (one GitHub employee describes Issues as an “active to-do list”), while *Discussions* is meant for asking open questions, brainstorming about how to use existing or new features, and for asking open questions. The best-maintained repositories have a clear distinction between the type of information and conversation that ought to be submitted to these two spaces. **It is recommended that TOPS distinguish between the use of Issues and Discussions in order to create a more welcoming environment for getting started with open science.**
-
-It is recommended that **GitHub Issues** be used for submitting suggested changes, additions or deletions to content which has already been added to the GitHub. Thus, Issues will be used to collect feedback on current plans, timelines, and content. Suggestions about new content, information on a particular open tool, or asking general questions should take place in Discussions. 
-
-It is recommended that **GitHub Discussions** be used for general Q&A, asking for community stories and experiences, and beginning conversations on new or existing open science topics. Best practice dictates that, in order to engage a community, content ought to be focused on a particular persona, content should be diverse (e.g., polls, open questions, and blogs), and should occur on a weekly or monthly schedule. It is recommended that the TOPS Core team create a weekly schedule for polls and Q&A that match the theme of the upcoming community forums. Different topics will have their own discussion thread, and a new topic will be introduced on a weekly basis until we get to the Year of Open Science launch. For example, an open question that is connected to the theme of the upcoming community forum could be asked, to help inform the agenda of the upcoming event. We can even invite other online communities to “sit in” our discussions, and engage with us during planned, collaborative events. Even the organization of the discussion space can help to create a particular community, by theming the categories around the type of conversations we want folks to be having with us and one another. 
-
-Content and discussions must also be actively moderated to:
-* Decrease off-topic conversations
-* Ensure adherence to the code of conduct
-* Response to questions and concerns
-* Integrate comments into future content 
-
-## Twitter
-
-Our goal on social media is to not just share announcements and amazing and compelling open science stories, but do so in a way that is understandable and connects the public to our content. That's our philosophy when we use social media. We hope to show people the importance of open science and  demonstrate how it can benefit their lives. 
+The TOPS Slack is primarily used to share the date, time, and location of open science events occurring at NASA and beyond. As such, Slack is utilized primarily as a coordination and information-sharing platform, and is not being actively used for reinforcing and building community.
 
 ## General Community Building Tips
 
