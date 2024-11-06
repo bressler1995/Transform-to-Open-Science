@@ -27,6 +27,10 @@ Below are examples of podcasts that TOPS has collaborated on to promote Open Sci
 
 - [Down to Earth Podcast (GRSS and IEEE)](https://www.grss-ieee.org/down-to-earth-podcast/)
 
+## Conferences
+
+TOPS will build capacity for practicing open science by [attending scientific conferences](/docs/Area1_Engagement/Outreach/tops_conferences.md) across the nation.
+
 ## Outreach Within NASA
 Just as it is very important to spread awareness of Open Science to the broader research community, it is also very important to spread awareness and develop relationships within NASA. 
 

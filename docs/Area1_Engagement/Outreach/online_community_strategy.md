@@ -3,21 +3,6 @@
 The following describes the Transform to Open Science (TOPS) team's strategy and proposed process for building an online community. 
 
 
-## Community Forums
-
-The TOPS community forums are monthly exchanges of about an hour in length which are open to the public. Anyone who has joined the TOPS [listserv](https://github.com/nasa/Transform-to-Open-Science#join-tops-mailing-list) receives an invitation to register for upcoming forums, with an announcement also posted on the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science#announcements). Forum recordings and slides and posted in the [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Community_Forums). In cases where recordings are not taken, transcriptions will be made available, if possible.
-
-The purpose of the Community Forums is to invite members of the NASA SMD community to become aware of and engage in conversation about upcoming events and recent progress on TOPS initiatives directly from the TOPS team. Further, these events can be leveraged to collect feedback from the community on TOPS core areas and activities, such as the Open Science 101, the Year of Open Science, and upcoming conference presentations etc. The community forum will also likely be leveraged for specific topics in the future, such as a “workshop” on responding to ROSES or an introduction to SMD-specific open science policy. 
-
-The TOPS team is committed to making these events as accessible as possible, and try to achieve this in the following manner:
-* Holding the forum virtually 
-* Providing transcription both during and after the meeting 
-* Providing recordings
-* Adding alt-text to images and slides
-
-To encourage participation, the TOPS team leverages tools such as Jamboard, Mentimeter, and the chat during meetings. Participants are also encouraged to send in questions prior to the meeting, as well as utilize the chat during the event. Although the community forum events allow the community to see members of the TOPS Core team speak, it is scheduled during the weekday and during work hours, which limits who can attend. Furthermore, these events only occur monthly, requiring some other avenue of communication to be leveraged to preserve community engagement throughout the month.  
-
-
 ## TOPS Slack
 
 TOPS Slack is used for project coordination among NASA civil servants and scientists already involved in open science at NASA, and by collaborators such as the Open Science 101 SMEs and TOPS panel members.
