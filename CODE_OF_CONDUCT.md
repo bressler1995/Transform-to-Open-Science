@@ -4,8 +4,7 @@
 
 If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a workshop instructor or facilitator.
 
-All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety is advised to contact 911.
 

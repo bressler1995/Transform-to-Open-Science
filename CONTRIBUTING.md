@@ -1,4 +1,4 @@
-# Contributing to Our GitHub
+# Contributing to the TOPS GitHub
 
 The goal of this page is to provide a comprensive guide for community members to contribute to TOPS documentation, the Open Science 101 curriculum, and any other topic pertaining to TOPS and Open Science.
 
