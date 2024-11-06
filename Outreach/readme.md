@@ -22,6 +22,12 @@ TOPS on occassion hosts special topic webinars that can be organized into two gr
 ### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](../TOPS_Newsletter/).
 
+## TOPS Slack
+
+TOPS Slack is used for project coordination among NASA civil servants and scientists already involved in open science at NASA, and by collaborators such as the Open Science 101 SMEs and TOPS panel members.
+
+The TOPS Slack is primarily used to share the date, time, and location of open science events occurring at NASA and beyond. As such, Slack is utilized primarily as a coordination and information-sharing platform, and is not being actively used for reinforcing and building community. 
+
 ## Podcasts
 Below are examples of podcasts that TOPS has collaborated on to promote Open Science.
 
