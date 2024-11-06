@@ -7,7 +7,6 @@ Before contributing, please read our [License](./LICENSE.md) and our [Code of Co
 ## Code of Conduct
 The [TOPS code of conduct](./CODE_OF_CONDUCT.md) is a great guide for interacting with our community and contributing to our repository content in a respectful and professional manner.
 
-
 ## Methods of Contributing
 There are three, major ways to contribute to the TOPS GitHub. 
 - **[Discussions](https://github.com/nasa/Transform-to-Open-Science/discussions)** - Our GitHub discussions community is intended for general Q&A, sharing Open Science stories, and having in depth conversations about open science related topics. 
