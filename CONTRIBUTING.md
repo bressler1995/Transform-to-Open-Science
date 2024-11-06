@@ -30,15 +30,15 @@ There are three, major ways to contribute to the TOPS GitHub.
 
 ## Contributing to Open Science 101
 
-All of the methods described apply to contributions for the Open Science 101 curriculum.  The curriculum content exists on [our Open Science 101 branch](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).  When opening a Pull Request, Issue or Discussion, please refer to [this content](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
+All of the methods described apply to contributions for the Open Science 101 curriculum.  The curriculum content exists on [our Open Science 101 branch](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).  When opening a Pull Request, Issue or Discussion, please refer to [the content](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) on this branch.
 
 Direct links to the content in question or screenshots are helpful details to provide so that our dispositioning process can be as efficient as possible.
 
 ### Labels and Categories
 
-To organize and add useful context to Issues, Pull Requests, and Discussions, this GitHub repository makes use of Labels and Categories.  Categories are used specifically for Discussions to help further organize them while labels are used for Issues and Pull Requests.
+To organize and add useful context to Issues, Pull Requests, and Discussions, this GitHub repository makes use of labels and categories.  Categories are used specifically for Discussions to help further organize them while labels are used for Issues and Pull Requests.
 
-The definitions below will allow you to identify useful details for a specific contribution or discussion:
+The definitions below will allow you to identify useful details for a specific OS101 suggestion:
 
 #### Curriculum Specific Labels
 
@@ -88,7 +88,7 @@ Specifies which Lesson (if applicable) the suggestion is related to.
 
 #### Discussion Categories (Discussions Only)
 
-**OS101 Curriculum**
+All OS101 related categories reside in the **OS101 Curriculum** parent category.
 
 - OS101 General: General questions, feedback, and comments for the OS101 curriculum.
 - OS101 Concepts: Talk about concepts taught in OS101, theory, applications in your research, potential for OS101 concepts to help solve difficult problems, and much more.
