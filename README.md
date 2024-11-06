@@ -44,7 +44,7 @@ TOPS is NASA's ambitious plan to accelerate open science practices by:
 For a preview of our content from our email list, feel free to read our [past newsletter releases](./TOPS_Newsletter/).
 
 ## TOPS Branding
-Are you a third-party group or partner that would like to use TOPS branding? <a href="./Assets/TOPS_Public_Use.png" target="_blank">Visit this link</a> for a version of the TOPS insignia intended for use by the mentioned groups.
+Are you a third-party group or partner that would like to use TOPS branding? [Visit this link](./Assets/TOPS_Public_Use.png) for a version of the TOPS insignia intended for use by the mentioned groups.
 
 ## Open Science 101 Curriculum
 
