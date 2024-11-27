@@ -22,16 +22,11 @@ TOPS on occassion hosts special topic webinars that can be organized into two gr
 ### Past Newsletter Releases
 For a preview of our content from our email list, feel free to read our [past newsletter releases](../TOPS_Newsletter/).
 
-## TOPS Slack
-
-TOPS Slack is used for project coordination among NASA civil servants and scientists already involved in open science at NASA, and by collaborators such as the Open Science 101 SMEs and TOPS panel members.
-
-The TOPS Slack is primarily used to share the date, time, and location of open science events occurring at NASA and beyond. As such, Slack is utilized primarily as a coordination and information-sharing platform, and is not being actively used for reinforcing and building community. 
-
 ## Podcasts
 Below are examples of podcasts that TOPS has collaborated on to promote Open Science.
 
 - [Down to Earth Podcast (GRSS and IEEE)](https://www.grss-ieee.org/down-to-earth-podcast/)
+- [Small Steps Giant Leaps](https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-129-accelerating-discoveries-with-open-science/)
 
 ## Conferences
 
@@ -55,15 +50,8 @@ A community of practice is defined as a group of people who share a craft or a p
 
 ### TOPS Champions
 
-TOPS Champions are open science ambassadors and subject matter experts that are present at 5 NASA centers. These individuals include scientists, staff, thought-leaders, and YOU! We can't build a robust community without your help. If you are interested in becoming a TOPS Champion, contact us and join our email list!
+TOPS Champions are NASA civil servants and contractors that are present at 6 NASA centers. They serve as open science ambassadors and subject matter experts.
 
 ## Citizen Science
-We realize that the road to making open science a reality doesn’t begin and end with academics and NASA scientists. We want to reach science-interested populations too! Citizen science provides an opportunity for the general science-interested public to get involved with scientific research to address societal needs, particularly those at a regional or local level, and to advance innovation. In citizen science, community members “formulate research questions, conduct scientific experiments, collect and analyze data, interpret results, make new discoveries, develop technologies and applications, and solve complex problems."
 
-NASA has been engaged in numerous citizen science projects across SMD and this is another exciting opportunity to do more!
-
-NASA TOPS will promote the inclusion of citizen and participatory science as integral parts of open science policies and practices at the national and international levels through the following tactics. We will:
-
-- Host webinars or listening sessions with the citizen science organizations
-- Promote TOPS curricula across their organization/communities
-- Highlight success stories around open science efforts
+The TOPS initiative is working with the Citizen Science program at NASA.  To learn more about Citizen Science at NASA, [learn more here](https://science.nasa.gov/citizen-science/).

@@ -13,28 +13,15 @@ None planned at this time.
 
 ## 2022-2023 TOPS Community Panelists:
 
-1. [James Colliander](https://blog.jupyter.org/national-scale-interactive-computing-2c104455e062)
-1. [Monica Granados](https://www.monicagranados.com)
-1. [Pen-Yuan Hsing](https://uk.linkedin.com/in/penyuan)
-1. [Logan Kilpatrick](https://www.linkedin.com/in/logankilpatrick/)
-1. [Brian Nosek](https://osf.io/cdi38/)
-1. [Fernando Perez](https://fperez.org)
-1. [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan)
-1. [Gloria Washington](https://profiles.howard.edu/profile/45491/gloria-washington)
-1. [Lou Woodley](https://www.cscce.org/research/)
-1. [Qiusheng Wu](https://wetlands.io)
-1. [SherAaron Hurt](https://www.linkedin.com/in/sheraaronhurt)
-1. [H. Justin Ballenger](https://www.linkedin.com/in/justin-ballenger)
-
-
-  
-  
- 
-
-
-  
-  
-  
- 
-
-   
+1. James Colliander
+2. Monica Granados
+3. Pen-Yuan Hsing
+4. Logan Kilpatrick
+5. Brian Nosek
+6. Fernando Perez
+7. Malvika Sharan
+8. Gloria Washington
+9. Lou Woodley
+10. Qiusheng Wu
+11. SherAaron Hurt
+12. H. Justin Ballenger
