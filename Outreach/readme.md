@@ -27,6 +27,7 @@ Below are examples of podcasts that TOPS has collaborated on to promote Open Sci
 
 - [Down to Earth Podcast (GRSS and IEEE)](https://www.grss-ieee.org/down-to-earth-podcast/)
 - [Small Steps Giant Leaps](https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-129-accelerating-discoveries-with-open-science/)
+- [NASA's Curious Universe](https://www.nasa.gov/podcasts/curious-universe/how-open-science-and-ai-are-advancing-hurricane-research/)
 
 ## Conferences
 
@@ -52,6 +53,6 @@ A community of practice is defined as a group of people who share a craft or a p
 
 TOPS Champions are NASA civil servants and contractors that are present at 6 NASA centers. They serve as open science ambassadors and subject matter experts.
 
-## Citizen Science
+### Citizen Science
 
 The TOPS initiative is working with the Citizen Science program at NASA.  To learn more about Citizen Science at NASA, [learn more here](https://science.nasa.gov/citizen-science/).
