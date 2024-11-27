@@ -22,7 +22,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
   - [ScienceCore](./Trainings/#sciencecore)
   - [Open Science Essentials](./Trainings/#open-science-essentials)
 
-> [!NOTE]
+> [!TIP]
 > ## Earn Your NASA Open Science Digital Badge
 > The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan.
 
