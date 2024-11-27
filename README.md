@@ -54,9 +54,11 @@ For a preview of our content from our email list, feel free to read our [past ne
 ## TOPS Branding
 Are you a third-party group or partner that would like to use TOPS branding? [Visit this link](./Assets/TOPS_Public_Use.png) for a version of the TOPS insignia intended for use by the mentioned groups.
 
-## Have a Question for TOPS?
+## Need Help?
 
 ### Frequently Asked Questions
+
+Browse our FAQ's to see if we have already received the same question.
 
 <details> 
 <summary>NASA's Open Science 101</summary>
@@ -162,12 +164,9 @@ Open science has played a pivotal role in enhancing the reproducibility and reli
 
 </details>
 
-### Start a Discussion
+### Ask a Question
 
-Start a [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions) on GitHub to ask TOPS or the community a question.
-
-### Contact TOPS
-Reach out to TOPS directly at [hq-openscience@mail.nasa.gov](mailto:hq-openscience@mail.nasa.gov).
+You can reach out to TOPS directly at [hq-openscience@mail.nasa.gov](mailto:hq-openscience@mail.nasa.gov) or you may start a [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions) on GitHub to ask the community a question.
 
 ## Contributors
 
