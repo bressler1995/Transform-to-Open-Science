@@ -40,9 +40,9 @@ TOPS is NASA's ambitious plan to accelerate open science practices by:
 2. Broaden participation by historically excluded communities 
 3. Increase understanding and adoption of open science principles and techniques
 
-## Open Science Trainings
+## Open Science Training Resources
 
-Lorem
+For information on Open Science 101, our other trainings, and other resources such as helping improve course content, citing course content, and more, [visit our trainings page](./Trainings).
 
 ## TOPS Newsletter
 
