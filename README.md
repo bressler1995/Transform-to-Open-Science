@@ -24,15 +24,17 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 > [!TIP]
 > ## Earn Your NASA Open Science Digital Badge
-> The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan.
-
-> Learn more on our [Trainings page](./Trainings) and on the [TOPS website](https://science.nasa.gov/open-science/tops/os101/).
+> The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Take the training online or through an in person cohort by [visiting our website](https://nasa.github.io/Transform-to-Open-Science/take-os101/)!
 
 ## Introduction
 
 Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA's Open-Source Science Initiative. By broadening participation and increasing access to knowledge, NASA's TOPS initiative will enable the creation of a scientific culture that is ready for 21st century challenges.
 
 To learn more about Open Science and TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).  To view an archive of old information, [click here](#).
+
+## Open Science Trainings
+
+Lorem
 
 ### Strategic Objectives
 
