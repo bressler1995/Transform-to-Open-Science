@@ -1,25 +1,24 @@
 # Open Science Trainings
 
+> [!TIP]
+> ## Earn Your NASA Open Science Digital Badge
+> The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Take the training online or through an in person cohort by [visiting our website](https://nasa.github.io/Transform-to-Open-Science/take-os101/)!
+
 ## Navigation
 - [Open Science 101](#open-science-101)
   - [Contributors](./OS101_Contributors.md)
   - [Detailed Course Structure](./OS101_Structure.md)
   - [Workshop Listing Requirements](./OS101_Workshop_Reqs.md)
-- [Science Core](#sciencecore)
 - [Open Science Essentials](#open-science-essentials)
+- [Science Core](#sciencecore)
 
 ## Open Science 101
 
 <img src="./Assets/overview.jpg" style="width: 100%; height: auto;">
 
-Discover all **5 modules** from the Open Science 101 curriculum by:
+### Discover all 5 Modules
 
-- [Visiting our website](https://science.nasa.gov/open-science/tops/os101).
-- [Reading this detailed structure](./OS101_Structure.md)
-
-### Earn Your Digital Badge
-
-To get badged for Open Science 101, explore options for self guided enrollment and instructor led trainings [on our website](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+[Visit our website](https://science.nasa.gov/open-science/tops/os101) to read an overview of the material covered in each module.
 
 ### Cite Open Science 101
 
@@ -33,27 +32,23 @@ Are you a researcher looking to cite our curriculum?  The following DOI informat
 
 TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
 
+Referencing the above material, you can open a [pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). For technical details related to these methods, please visit our [contributing page](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
+
 **Note:** The GitHub version of the curriculum will not allow  you to get credit for taking the curriculum.  To get badged for Open Science 101 [sign up here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
-
-### Contributors
-
-To learn more about the amazing minds that made Open Science 101 possible, visit our [Open Science 101 contributors page](./OS101_Contributors.md).
-
-#### Methods of Contributing
-
-To contribute, you can open a [pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). 
-
-For technical details on contributing to Open Science 101, please visit our [contributing page](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
 
 ### Teach Open Science 101
 
 #### New Instructors
 
-To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscience@nasa.gov) to find out more about this process.  More details will be posted soon.
+To become an instructor for Open Science 101, [contact TOPS](mailto:hq-openscience@nasa.gov) to find out more about this process.
 
-#### Existing Instructors
+#### TOPST
 
-Are you already teaching OS101?  Learn how you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./OS101_Workshop_Reqs.md).
+If you are a member of TOPST, you can get your instructor-led training listed on our website by reading our [workshop listing requirements](./OS101_Workshop_Reqs.md).
+
+## Open Science Essentials
+
+Open Science essentials will be a condensed course based on Open Science 101 that is designed for managers to become familiar with the principles of Open Science so that they can implement Open Science practices in the work place, and in employee trainings.  More information will be posted here as development is completed.
 
 ## ScienceCore
 
@@ -61,13 +56,8 @@ The Open Science 101 curriculum will be expanded to support researchers looking 
 
 **TOPS is still developing the plan and incentive structure for the ScienceCore. If you have any ideas, utilize GitHub discussions and share them with us!**
 
-### Module Descriptions
+### Structure
 
 The design calls for several, individual 2.5-hour modules that focus on data science skills and domain-specific open science practices that could be taught in-person during large society meetings or during science team meetings, completed individually online, or completed via group-organized online events. 
 * Each course module will be a 2.5-hour interactive learning experience with slides, videos, quizzes, and activities.
 * All content will be assigned a CC0 or CC-BY license.
-
-
-## Open Science Essentials
-
-Open Science essentials will be a condensed course based on Open Science 101 that is designed for managers to become familiar with the principles of Open Science so that they can implement Open Science practices in the work place, and in employee trainings.  More information will be posted here as development is completed.
