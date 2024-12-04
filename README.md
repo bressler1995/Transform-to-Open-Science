@@ -14,10 +14,10 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 - Home
   - [Introduction](#introduction)
+  - [Open Science Training Resources](#open-science-training-resources)
   - [TOPS Newsletter](#tops-newsletter)
   - [TOPS Branding](#tops-branding)
-  - [Open Science 101 Curriculum](#open-science-101-curriculum)
-  - [Have a Question for TOPS?](#have-a-question-for-tops)
+  - [Need Help?](#need-help)
   - [Contributors](#contributors)
 - [TOPS Newsletter](./TOPS_Newsletter)
 - [Outreach](./Outreach)
