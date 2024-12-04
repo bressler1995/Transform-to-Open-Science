@@ -13,7 +13,3 @@ A [list](./federal_guidance.md) of open science guidance from the US Federal gov
 ## Global Guidance
 
 A [list](./global_policies.md) of open science policies from governments around the world that advances open science.
-
-## Funding Opportunities
-
-A list of open science [funding opportunities](./funding_opportunities.md). Please feel free to make pull requests and add new opportunities.
