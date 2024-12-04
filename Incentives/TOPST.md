@@ -18,10 +18,6 @@ TOPST requires both an **Open-Source Science Development Plan** (replaces the Da
 
 You can likewise find resources for ROSES proposals [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 
-## More Funding Opportunities
-
-While the TOPST solicitation **has come to a close**, you can visit the [NASA webpage for open science funding opportunities](https://science.nasa.gov/researchers/open-science/nasa-open-science-funding-opportunities/). Please check the web page for the latest information about these solicitations.
-
 ## Additional Resources
 
 Proposal resources curated by the TOPS team are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
