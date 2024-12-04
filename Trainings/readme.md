@@ -7,7 +7,6 @@
 ## Navigation
 - [Open Science 101](#open-science-101)
   - [Contributors](./OS101_Contributors.md)
-  - [Detailed Course Structure](./OS101_Structure.md)
   - [Workshop Listing Requirements](./OS101_Workshop_Reqs.md)
 - [Open Science Essentials](#open-science-essentials)
 - [Science Core](#sciencecore)
