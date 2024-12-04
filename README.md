@@ -19,12 +19,13 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
   - [TOPS Branding](#tops-branding)
   - [Need Help?](#need-help)
   - [Contributors](#contributors)
-- [TOPS Newsletter](./TOPS_Newsletter)
-- [Outreach](./Outreach)
 - [Trainings](./Trainings)
   - [Open Science 101](./Trainings/#open-science-101)
   - [ScienceCore](./Trainings/#sciencecore)
   - [Open Science Essentials](./Trainings/#open-science-essentials)
+- [TOPS Newsletter](./TOPS_Newsletter)
+- [Outreach](./Outreach)
+- [Incentives](./Incentives)
 
 ## Introduction
 
