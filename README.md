@@ -8,7 +8,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 > ## Earn Your NASA Open Science Digital Badge
 > The Open Science 101 (OS101) curriculum is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science and data management plan. Take the training online or through an in person cohort by [visiting our website](https://nasa.github.io/Transform-to-Open-Science/take-os101/)!
 
-## Repository Navigation
+## Navigation
 
 <img align="right" src="https://zenodo.org/record/7742997/files/Tops_Badge_Nasa.png" width="200" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
 
