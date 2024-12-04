@@ -8,8 +8,8 @@ While the TOPST solicitation **has come to a close**, you can visit the [NASA we
 
 ### TOPST
 
-TOPS was a ROSES a solicitation that has since passed the deadline for proposal submissions.  You can learn more about our group of TOPST grantees [here](./TOPST.md).
+TOPST was a ROSES a solicitation that has since passed the deadline for proposal submissions.  You can learn more about our group of TOPST grantees [here](./TOPST.md).
 
 ### Open Science Data Management Plans
 
-To encourage a transition to open science practices, ROSES solicitations will be requiring an Open Science Data Management plan (OSDMP).  You can learn more about OSDMPs by taking our Open Science 101 course.
+To encourage a transition to open science practices, ROSES solicitations will be requiring an Open Science Data Management plan (OSDMP).  You can learn more about OSDMPs by [taking our Open Science 101 course](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
