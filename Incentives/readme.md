@@ -8,7 +8,7 @@ While the TOPST solicitation **has come to a close**, you can visit the [NASA we
 
 ### TOPST
 
-TOPS was a ROSES a solicitation that has since passed the deadline for proposal submissions.  You can learn more about our group of TOPST grantees here.
+TOPS was a ROSES a solicitation that has since passed the deadline for proposal submissions.  You can learn more about our group of TOPST grantees [here](./TOPST.md).
 
 ### Open Science Data Management Plans
 
