@@ -244,15 +244,11 @@ Can link to open source libraries, and code can be licensed under any license ty
 
 **Permissive**
 
-Gives users wide but not complete latitude to reuse/relicense.
-
-**Non-permissive**
-
-Allows users to reuse, but also gives users the responsibility to share their changes with the community.
+Gives users wide latitude to reuse/relicense.
 
 **Copyleft**
 
-Can be distributed or modified if all the code involved is licensed under the same license.
+Allows users to reuse, but also gives users the responsibility to share their changes with the community.
 
 **Proprietary**
 
