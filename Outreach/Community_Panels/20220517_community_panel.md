@@ -3,7 +3,7 @@
 
 **Where:** Public (virtual) meeting  
 **When:** 17-19 May 2022, 12-3 EST (9-12 PST), each day.  
-**Questions?** Many of the questions that came out of the panel are answered in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md)  
+**Questions?** Many of the questions that came out of the panel are answered in our [FAQs](/README.md#frequently-asked-questions)  
 **Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
 **Slides:** [Panel slides](https://doi.org/10.5281/zenodo.6555260)  
 **Recordings:** [Day 1](https://www.youtube.com/watch?v=MkND79xz-sI), [Day 2](https://www.youtube.com/watch?v=Nt31-2g3G_4), [Day 3](https://www.youtube.com/watch?v=WJgxxy1U_tw)  
@@ -12,7 +12,7 @@
 
 Each day we will present TOPS upcoming plans for the Year of Open Science and highlight emerging trends, success stories, and lessons learned with open science experts. Public participation is encouraged.
 
-[Please also take a moment to review our Code of Conduct here](../../../CODE_OF_CONDUCT.md)
+[Please also take a moment to review our Code of Conduct here](/CODE_OF_CONDUCT.md)
 
 Links to presentations will be added the morning of the event. 
 

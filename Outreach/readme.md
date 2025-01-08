@@ -1,6 +1,6 @@
 # Outreach
 
-Open Science is built on community. Parallel to the core values of Open Science, NASA’s Transform to Open Science (TOPS) efforts can’t be successful without working with diverse communities, agencies, institutions, and disciplines. When we learn from each other, we become stronger together.
+Open Science is built on community. Parallel to the core values of Open Science, NASA's Transform to Open Science (TOPS) efforts can't be successful without working with diverse communities, agencies, institutions, and disciplines. When we learn from each other, we become stronger together.
 
 In reaching a diverse range of individuals, TOPS aims to spread awareness about Open Science, how it can seemlessly be utilized in research, and how it can foster a culture of diversity, accessibility, and equity.
 
@@ -31,7 +31,7 @@ Below are examples of podcasts that TOPS has collaborated on to promote Open Sci
 
 ## Conferences
 
-TOPS will build capacity for practicing open science by [attending scientific conferences](/docs/Area1_Engagement/Outreach/tops_conferences.md) across the nation.
+TOPS will build capacity for practicing open science by [attending scientific conferences](./TOPS_Conferences.md) across the nation.
 
 ## Outreach Within NASA
 Just as it is very important to spread awareness of Open Science to the broader research community, it is also very important to spread awareness and develop relationships within NASA. 
@@ -46,7 +46,7 @@ A community of practice is defined as a group of people who share a craft or a p
   - Proposing challenge ideas as they relate to Open Science, the Year of Open Science, and other relevant scientific topics
   - Promoting Space Apps through our outlets such as the TOPS newsletter, community forums, and our LinkedIn page
   - Promoting the Open Science curriculum and assisting with metrics tracking of shared links
-- Engage with NASA’s Minority University Research and Engagement Program (MUREP)
+- Engage with NASA's Minority University Research and Engagement Program (MUREP)
 - Engage stakeholders through the [ESIP Open Source Science Transformation Cluster](https://wiki.esipfed.org/Open_Science_Cluster)
 
 ### TOPS Champions

@@ -46,6 +46,8 @@ Gives context to what kind of suggestion is being made.
   - If feedback is with relation to a knowledge check, this label is useful for this.
 - OS101 Curriculum: Bug Report
   - Bug reports that are specific to openscience101.org.
+- OS101 Curriculum: Feature Request
+  - Feature requests that are specific to openscience101.org.
 
 #### Status Labels
 

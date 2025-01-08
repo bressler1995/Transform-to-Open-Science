@@ -21,8 +21,8 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
   - [Contributors](#contributors)
 - [Trainings](./Trainings)
   - [Open Science 101](./Trainings/#open-science-101)
-  - [ScienceCore](./Trainings/#sciencecore)
   - [Open Science Essentials](./Trainings/#open-science-essentials)
+  - [ScienceCore](./Trainings/#sciencecore)
 - [TOPS Newsletter](./TOPS_Newsletter)
 - [Outreach](./Outreach)
 - [Incentives](./Incentives)
@@ -31,7 +31,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 
 Transform to Open Science (TOPS) is a NASA initiative designed to rapidly transform agencies, organizations, and communities to an inclusive culture of open science. TOPS is part of NASA's Open-Source Science Initiative. By broadening participation and increasing access to knowledge, NASA's TOPS initiative will enable the creation of a scientific culture that is ready for 21st century challenges.
 
-To learn more about Open Science and TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).  To view an archive of old information, [visit the archive branch](#).
+To learn more about Open Science and TOPS, [visit our website](https://science.nasa.gov/open-science/tops/).  To view an archive of old information, [visit the archive branch](https://github.com/nasa/Transform-to-Open-Science/tree/archive).
 
 ### Strategic Objectives
 
