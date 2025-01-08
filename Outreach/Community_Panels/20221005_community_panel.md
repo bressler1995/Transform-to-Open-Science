@@ -1,12 +1,9 @@
 # October 2022 Community Panel 
 
 **Where:** Public (Hybrid) meeting online and at NASA JPL in Pasadena, CA  
-**When:** 5-6 October 2022
-
-**Questions?** All of the answers to any posted questions will be posted in our [FAQs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/engagement_faq.md).
-
-**Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)
-
+**When:** 5-6 October 2022  
+**Questions?** **Questions?** See options fo contacting TOPS [here](/README.md#need-help)  
+**Discussion topics?** Start a [discussion on GitHub](https://github.com/nasa/Transform-to-Open-Science/discussions)  
 **Slides**  [here](https://doi.org/10.5281/zenodo.7186496) \
 **Recordings: [Day 1](https://www.youtube.com/watch?v=EPn6ENVnEYk) | [Day 2](https://www.youtube.com/watch?v=G5M7vThQu0s)** (Note: there are some audio issues with Day 1) \
 **Transcripts:** [here](https://doi.org/10.5281/zenodo.7250862)  \
