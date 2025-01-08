@@ -9,19 +9,13 @@ Marc Kuchner, citizen scientist officer at NASA will overview NASA’s growing c
 You’ll hear the perspectives of Dr. Aaron Meisner, a scientist and project leader, and Dan Caselden, a project volunteer whose discoveries have been published in Nature and observed with the Webb space telescope.
 
 
-Panelist
+**Panelist(s)**
 - Dr. Marc Kuchner, Citizen Science Officer, NASA
 - Dr. Aaron Meisner, Associate Astronomer, NSF NOIRLab
 - Dan Caselden, Engineer, Blackthorne Consulting
 
-
-
- 
-
-*Date:** Tuesday, August 13, 2024 2-3 PM ET
+**Date:** Tuesday, August 13, 2024 2-3 PM ET
 
 - **[Recording](https://www.youtube.com/watch?v=o0wp1z0Gt5s)**
- 
 - **[Slides](https://zenodo.org/records/13327310)**
- 
-- **[Code Of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/code_of_conduct.md)**
+- **[Code Of Conduct](./Code_Of_Conduct.md)**

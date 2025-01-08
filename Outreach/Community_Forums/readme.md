@@ -4,18 +4,17 @@ TOPS Community Forums are public meetings where we discuss the TOPS initiative, 
 
 ## Next Forum
 
-* August 13 2024 [Forum](20240813_community_forum.md)
-Exploring Citizen Science: Help NASA Make Space Discoveries
+None planned at this time.
 
 ## 2023
 
-* November 09 2023 [Forum](20231109_community_forum.md)
-* September 14 2023 [Forum](20230914_community_forum.md)
-* August 10 2023 [Forum](20230810_community_forum.md)
-* May 11 2023 [Forum](20230511_community_forum.md)
-* April 13 2023 [Forum](20230413_community_forum.md)
-* March 9 2023 [Forum](20230309_community_forum.md)
-* February 9 2023 [Forum](20230209_community_forum.md)
+* November 09 2023 [Forum](./20231109_community_forum.md)
+* September 14 2023 [Forum](./20230914_community_forum.md)
+* August 10 2023 [Forum](./20230810_community_forum.md)
+* May 11 2023 [Forum](./20230511_community_forum.md)
+* April 13 2023 [Forum](./20230413_community_forum.md)
+* March 9 2023 [Forum](./20230309_community_forum.md)
+* February 9 2023 [Forum](./20230209_community_forum.md)
 
 ## 2022
 
