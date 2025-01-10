@@ -14,4 +14,4 @@ Gain insights from NASA experts into the unique opportunities eclipse events pro
 
 - **[Recording]( https://www.youtube.com/watch?v=Ry-Cef_kQKY)**
 - **[Slides]( https://zenodo.org/record/8367662)**
-- **[Code Of Conduct](./Code_Of_Conduct.md)**
+- **[Code Of Conduct](../Code_Of_Conduct.md)**

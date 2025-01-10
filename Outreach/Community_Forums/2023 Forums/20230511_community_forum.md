@@ -11,4 +11,4 @@ May 11, 1 PM ET: Community Forum: NASA’s Transform to Open Science [TOPS](http
 **Date:** Thursday May 11, 2023 1-2 PM ET
 - **[Video Recording](https://www.youtube.com/watch?v=qncSHqRyF3g)**
 - **[Slides](https://zenodo.org/record/7948513#.ZGY9M0_MIuU)**
-- **[Code Of Conduct](./Code_Of_Conduct.md)**
+- **[Code Of Conduct](../Code_Of_Conduct.md)**

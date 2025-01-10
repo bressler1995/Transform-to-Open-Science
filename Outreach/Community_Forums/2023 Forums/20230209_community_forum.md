@@ -8,7 +8,7 @@ Come to our monthly forum to learn more!  As co-chairs within the White House Of
 
 - [Video Recording](https://www.youtube.com/watch?v=hMlhL73R5CE)
 - [Slides](https://doi.org/10.5281/zenodo.7626004)
-- [Code of conduct](./Code_Of_Conduct.md)
+- [Code of conduct](../Code_Of_Conduct.md)
 
 **Resources**
 - [Open Science from Federal Agencies](https://open.science.gov/)

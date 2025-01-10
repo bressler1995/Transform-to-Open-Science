@@ -12,7 +12,7 @@ NASA's Transform to Open Science (TOPS) Special Topic Webinar with Dr. Mike Morr
 
 - **[Recording]( https://www.youtube.com/watch?v=4jinqibSE6M)**
 - **[Slides]( https://zenodo.org/records/10150808)**
-- **[Code Of Conduct](./Code_Of_Conduct.md)**
+- **[Code Of Conduct](../Code_Of_Conduct.md)**
 -  Q/A from Webinar
 
 1. If you use a QR code do you link only the PDF, or a collection of paper, code and social links? Is there a best practice?

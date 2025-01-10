@@ -1,5 +1,12 @@
 # Outreach
 
+## Navigation
+- [TOPS Conferences](./TOPS_Conferences.md)
+- [Community Forums](./Community_Forums)
+- [Community Panels](./Community_Panels)
+
+## Overview
+
 Open Science is built on community. Parallel to the core values of Open Science, NASA's Transform to Open Science (TOPS) efforts can't be successful without working with diverse communities, agencies, institutions, and disciplines. When we learn from each other, we become stronger together.
 
 In reaching a diverse range of individuals, TOPS aims to spread awareness about Open Science, how it can seemlessly be utilized in research, and how it can foster a culture of diversity, accessibility, and equity.

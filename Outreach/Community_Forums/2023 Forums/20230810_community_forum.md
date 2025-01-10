@@ -12,4 +12,4 @@ The August Community Forum will be held tomorrow, August 10 at 1 PM ET. Featurin
 
 - **[Recording](https://www.youtube.com/watch?v=Pzazn55Wk_0)**
 - **[Slides](https://zenodo.org/record/8258741)**
-- **[Code Of Conduct](./Code_Of_Conduct.md)**
+- **[Code Of Conduct](../Code_Of_Conduct.md)**

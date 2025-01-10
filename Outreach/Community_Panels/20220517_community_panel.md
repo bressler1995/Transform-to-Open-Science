@@ -134,17 +134,6 @@ Links to presentations will be added the morning of the event.
    </td>
   </tr>
   </table>
-  
-
-
-
-  
-  
-  
-  
-  
-  
- 
 
 ### Day 2
 

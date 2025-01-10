@@ -31,7 +31,7 @@ Are you a researcher looking to cite our curriculum?  The following DOI informat
 
 TOPS has created a development version of the curriculum written in Markdown to enable the community to help make it even better.  It can be found [here](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101).
 
-Referencing the above material, you can open a [pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). For technical details related to these methods, please visit our [contributing page](./CONTRIBUTING.md#contributing-to-open-science-101-on-github).
+Referencing the above material, you can open a [pull request](https://github.com/nasa/Transform-to-Open-Science/pulls), [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions). For technical details related to these methods, please visit our [contributing page](/CONTRIBUTING.md#contributing-to-open-science-101-on-github).
 
 **Note:** The GitHub version of the curriculum will not allow  you to get credit for taking the curriculum.  To get badged for Open Science 101 [sign up here](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
 

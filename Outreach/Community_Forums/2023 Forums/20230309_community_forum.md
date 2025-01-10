@@ -6,5 +6,5 @@ Thank you for joining us March 09, 2023 for a joint community forum between the 
 
 - [Video Recording](https://www.youtube.com/watch?v=puM86Gr5COc)
 - [Slides](https://zenodo.org/record/7713446#.ZBsZGnbMKUk)
-- [Code of conduct](../Community_Forums/code_of_conduct.md)
+- [Code of conduct](../Code_Of_Conduct.md)
 

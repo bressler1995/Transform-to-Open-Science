@@ -7,4 +7,4 @@ Thank you for joining us April 13, 2023 for NASA’s Transform to Open Science [
 
 - [Video Recording](https://www.youtube.com/watch?v=PSeKlCl7YLs)
 - [Slides](https://zenodo.org/record/7826161#.ZEBHunbMKUk)
-- [Code of conduct](./Code_Of_Conduct.md)
+- [Code of conduct](../Code_Of_Conduct.md)
