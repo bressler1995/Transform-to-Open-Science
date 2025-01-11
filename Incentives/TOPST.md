@@ -1,8 +1,6 @@
 # TOPS Training Solicitation 
 
-Transform to Open Science Training or "TOPST" was a Research Opportunities in Space and Earth Science (ROSES) solicitation. Solicitation F.14 can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
-
-Resources for proposal development are available [here](./proposal_resources.md).
+Transform to Open Science Training or "TOPST" was a Research Opportunities in Space and Earth Science (ROSES) solicitation. 
 
 ### The TOPST element solicited proposals for:
 
@@ -10,7 +8,7 @@ Resources for proposal development are available [here](./proposal_resources.md)
 2. Implementation of Summer Schools to teach Open Science 101
 3. Implementation of Virtual Cohorts to complete Open Science 101.
 
-The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD). More information on the ScienceCore is available [here](../Trainings) and on the Open Science 101 is available [here](../Trainings/).
+The training material as well as the design of the learning activities should be targeted to audiences from undergraduate students to established scientists and managers from all science disciplines supported by NASA’s Science Mission Directorate (SMD). More information on the ScienceCore is available [here](../Trainings#sciencecore) and on the Open Science 101 is available [here](../Trainings#open-science-101).
 
 ### Additional Proposal Elements
 
@@ -18,6 +16,8 @@ TOPST required both an **Open-Source Science Development Plan** (replaces the Da
 
 ## Additional Resources
 
+- Solicitation F.14 can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
+- Resources for proposal development are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 - Proposal resources curated by the TOPS team are available [here](https://nasa.github.io/Transform-to-Open-Science-Book/Proposal_Resources/readme.html).
 - The announcement for TOPST awardees can be found [here](https://www.nasa.gov/centers-and-facilities/marshall/nasa-boosts-open-science-through-innovative-training/).
 

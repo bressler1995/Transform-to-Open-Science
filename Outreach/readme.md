@@ -27,7 +27,7 @@ TOPS on occassion hosts special topic webinars that can be organized into two gr
 [Join the TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about open science activities, stories, news, and funding opportunities.
 
 ### Past Newsletter Releases
-For a preview of our content from our email list, feel free to read our [past newsletter releases](../TOPS_Newsletter/).
+For a preview of our content from our email list, feel free to read our [past newsletter releases](../TOPS_Newsletter).
 
 ## Podcasts
 Below are examples of podcasts that TOPS has collaborated on to promote Open Science.
