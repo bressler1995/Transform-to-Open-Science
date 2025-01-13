@@ -12,4 +12,4 @@ TOPST was a ROSES a solicitation that has since passed the deadline for proposal
 
 ### Open Science Data Management Plans
 
-To encourage a transition to open science practices, ROSES solicitations will be requiring an Open Science Data Management plan (OSDMP).  You can learn more about OSDMPs by [taking our Open Science 101 course](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
+To encourage a transition to open science practices, ROSES solicitations [will be requiring](https://science.nasa.gov/researchers/sara/faqs/osdmp/) an Open Science Data Management plan (OSDMP).  You can learn more about OSDMPs by [taking our Open Science 101 course](https://nasa.github.io/Transform-to-Open-Science/take-os101/).
