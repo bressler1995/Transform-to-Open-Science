@@ -37,13 +37,13 @@ To learn more about Open Science and TOPS, [visit our website](https://science.n
 
 TOPS is NASA's ambitious plan to accelerate open science practices by:
 
-1. Accelerate major scientific discoveries 
-2. Broaden participation by historically excluded communities 
-3. Increase understanding and adoption of open science principles and techniques
+1. Accelerating major scientific discoveries 
+2. Broadening participation by historically excluded communities 
+3. Increasing understanding and adoption of open science principles and techniques
 
 ## Open Science Training Resources
 
-For information on Open Science 101, additional Open Science trainings, and other critical resources, [visit our trainings page](./Trainings).  Included in these resources are information about contributing suggestions, citing Open Science trainings, and more.
+For information on Open Science 101, additional open science trainings, and other critical resources, [visit our trainings page](./Trainings).  Included in these resources are information about contributing suggestions, citing Open Science trainings, and more.
 
 ## TOPS Newsletter
 
@@ -53,7 +53,7 @@ For information on Open Science 101, additional Open Science trainings, and othe
 For a preview of our content from our email list, feel free to read our [past newsletter releases](./TOPS_Newsletter/).
 
 ## TOPS Branding
-Are you a third-party group or partner that would like to use TOPS branding? [Visit this link](./Assets/TOPS_Public_Use.png) for a version of the TOPS insignia intended for use by the mentioned groups.
+Are you a third-party group or partner that would like to use TOPS branding? You can find a version of the TOPS insignia intended for use by the mentioned groups [here](./Assets/TOPS_Public_Use.png).
 
 ## Need Help?
 

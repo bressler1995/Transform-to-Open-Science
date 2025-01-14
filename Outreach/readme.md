@@ -51,7 +51,7 @@ It is very important for the success of Open Science and TOPS to spread awarenes
 ### Communities of Practice
 A community of practice is a group of people who share a craft or a profession.  In this case, those participating in or advocating for open-source science. TOPS will build such as community through a [GitHub repository](https://github.com/nasa/Transform-to-Open-Science), an informative [Newsletter](https://nasa.github.io/Transform-to-Open-Science/signup/), a [LinkedIn](https://www.linkedin.com/groups/12833665/) group, and [Space Apps Challenges](https://www.spaceappschallenge.org/).
 
-#### Space Apps Challenges:
+#### Space Apps Challenges
 Proposed Space Apps Challenges will promote Open Science practices and the aforementioned communities of practice.
 
   - [Make a Moonquake Map!](https://www.spaceappschallenge.org/2023/challenges/make-a-moonquake-map-20/)

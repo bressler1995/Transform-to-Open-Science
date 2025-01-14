@@ -26,13 +26,11 @@ reporting mechanisms rather than this program.
 In order to help us triage and prioritize submissions, NASA recommends that vulnerability
 reports:
 
-• Describe the vulnerability, where it was discovered (location of affected source code), and the potential impact of 
+- Describe the vulnerability, where it was discovered (location of affected source code), and the potential impact of 
 exploitation. 
-
-• Offer a detailed description of the steps needed to reproduce the vulnerability (proof of 
+- Offer a detailed description of the steps needed to reproduce the vulnerability (proof of 
 concept scripts or screenshots are helpful).
-
-• Any special configuration required to reproduce the issue.
+- Any special configuration required to reproduce the issue.
 
 ## Preferred Languages
 
@@ -46,12 +44,9 @@ This vulnerability disclosure policy facilitates NASA’s awareness of otherwise
 
 This policy further describes:
 
-• What systems and types of research are covered under this policy,
-
-• General guidelines for demonstrating good faith,
-
-• How to submit vulnerability reports, and
-
-• What to expect following a vulnerability report.
+- What systems and types of research are covered under this policy,
+- General guidelines for demonstrating good faith,
+- How to submit vulnerability reports, and
+- What to expect following a vulnerability report.
 
 **It is advised to thoroughly read and understand NASA's Vulnerability Disclosure Policy before proceeding to report any issue to NASA.**
