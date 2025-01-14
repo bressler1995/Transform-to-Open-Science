@@ -46,12 +46,13 @@ Below are examples of podcasts that TOPS has collaborated on to promote Open Sci
 TOPS will build capacity for practicing open science by [attending scientific conferences](./TOPS_Conferences.md) across the nation.
 
 ## Outreach Within NASA
-Just as it is very important to spread awareness of Open Science to the broader research community, it is also very important to spread awareness and develop relationships within NASA. 
+It is very important for the success of Open Science and TOPS to spread awareness within NASA.
 
 ### Communities of Practice
-A community of practice is defined as a group of people who share a craft or a profession.  In this case, those participating in or advocating for open-source science. TOPS will build such as community through a GitHub repository, an informative Newsletter, a LinkedIn group, and Space Apps Challenges.
+A community of practice is a group of people who share a craft or a profession.  In this case, those participating in or advocating for open-source science. TOPS will build such as community through a [GitHub repository](https://github.com/nasa/Transform-to-Open-Science), an informative [Newsletter](https://nasa.github.io/Transform-to-Open-Science/signup/), a [LinkedIn](https://www.linkedin.com/groups/12833665/) group, and [Space Apps Challenges](https://www.spaceappschallenge.org/).
 
-### Space Apps Challenges:
+#### Space Apps Challenges:
+Proposed Space Apps Challenges will promote Open Science practices and the aforementioned communities of practice.
 
   - [Make a Moonquake Map!](https://www.spaceappschallenge.org/2023/challenges/make-a-moonquake-map-20/)
   - [Mapping data for societal benefit](https://www.spaceappschallenge.org/2023/challenges/mapping-data-for-societal-benefit/)
