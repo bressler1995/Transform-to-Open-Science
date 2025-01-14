@@ -56,9 +56,9 @@ There are an additional thirteen suggestions which do not neatly fit into these 
 * “Increased reward of open science activities, particularly when evaluating a science portfolio.”
 * Agreement or creation of “international standards for openness.”
 * Chance to “build reputation as an open science practitioner.”
-* “Lead a new generation of researchers who believe in open science principles.”
-* “There is a growing awareness and appetite to get open science right across a lot of disciplines.”
+* "Lead a new generation of researchers who believe in open science principles."
+* "There is a growing awareness and appetite to get open science right across a lot of disciplines."
 * Chance to create “new standards for visualization content.”
 * Increase of compatible tools
 * Increase of open source development
-* “Many citizen science projects already use many open science practices.” 
+* "Many citizen science projects already use many open science practices."

@@ -16,7 +16,7 @@ We will discuss the requirements for each section, point out resources NASA has 
 - [Video Recording](https://www.youtube.com/watch?v=wTtmdWqUr1c)
 - [Slides](https://doi.org/10.5281/zenodo.7195790)
 - [TOPS Training FAQs](https://doi.org/10.5281/zenodo.7194641)
-- [Code of conduct](../Community_Forums/code_of_conduct.md)
+- [Code of conduct](../Code_Of_Conduct.md)
 
 Pre-proposal calls will be held Tuesday, October 25, 2022 and Thursday, November 3, 2022, 2-2:30 pm EST to provide interested parties with the opportunity to better understand the intent, scope, and selection criteria of the Transform to Open Science Training (Solicitation number NNH22ZDA001N-TOPST). This will be an open public question/answer period.
 

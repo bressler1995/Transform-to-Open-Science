@@ -16,7 +16,7 @@ Curricula Review - now until August 4:
 * [Module GitHub Repositories For Review](https://github.com/learnopenscience)
 * [Module Review Form](https://docs.google.com/forms/d/e/1FAIpQLScPmtt6ehzIll8zNEk8aDbn0VDH2X6RNI8sET4QD6viVAdgPQ/viewform)
 
-[Code of conduct](../Community_Forums/code_of_conduct.md)
+[Code of conduct](../Code_Of_Conduct.md)
 
 Agenda:
 | **Timestamp** | **Agenda Item** | **Speaker** |

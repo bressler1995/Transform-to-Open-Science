@@ -7,7 +7,7 @@ Join us this month to delve into two NASA Science Mission Directorate Divisions:
 - [Video Recording](https://www.youtube.com/watch?v=XIiMO-Ebx9g)
 - [Slides](https://doi.org/10.5281/zenodo.7062615)
 - [Jamboard Discussion](https://doi.org/10.5281/zenodo.7064804)
-- [Code of conduct](../Community_Forums/code_of_conduct.md)
+- [Code of conduct](../Code_Of_Conduct.md)
 
 Tentative Agenda:
 | **Time (ET)** | **Agenda Item** | **Speaker** |

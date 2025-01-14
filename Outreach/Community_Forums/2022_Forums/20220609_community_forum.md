@@ -10,7 +10,7 @@
 
 [Video Recording](https://www.youtube.com/watch?v=Am0cnc3oT2M&list=PLSqpxDmgLp4FRm1-9aYx_qhw0t7VZrVFt&index=1)
 
-[Please review our code of conduct here.](../Community_Forums/code_of_conduct.md)
+[Please review our code of conduct here.](../Code_Of_Conduct.md)
 
 
 

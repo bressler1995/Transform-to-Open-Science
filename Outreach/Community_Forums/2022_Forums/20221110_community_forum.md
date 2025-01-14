@@ -11,4 +11,4 @@ Join us November 10, 2022 for our TOPS Community Forum! By popular demand, we wi
 [Slides](https://doi.org/10.5281/zenodo.7311818)
 
 
-[Code of conduct](../Community_Forums/code_of_conduct.md)
+[Code of conduct](../Code_Of_Conduct.md)

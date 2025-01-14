@@ -132,19 +132,12 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 TOPS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
 * [The GSA Code of Conduct](https://handbook.tts.gsa.gov/about-us/code-of-conduct/)
-
 * [The Contributor Covenant](http://contributor-covenant.org), [version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
-
 * [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion#code-of-conduct--enforcement)
-
-* [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) 
-
+* [The Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
 * Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
 * [Contributor Covenant](https://www.contributor-covenant.org/) from Contributor-Covenant.org 
-
 * [The TTS Handbook](https://handbook.tts.gsa.gov/about-us/code-of-conduct/) from the General Services Administration
-
 * The archives of the [Ada Initiative ](https://adainitiative.org/) 
 
 **The license for this repository is available [here](./LICENSE.md).**
