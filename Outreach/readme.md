@@ -1,9 +1,14 @@
 # Outreach
 
 ## Navigation
-- [TOPS Conferences](./TOPS_Conferences.md)
-- [Community Forums](./Community_Forums)
-- [Community Panels](./Community_Panels)
+- [Overview](#overview)
+- [Special Topic Webinars](#special-topic-webinars)
+  - [Community Forums](./Community_Forums)
+  - [Community Panels](./Community_Panels)
+- [TOPS Newsletter](#tops-newsletter)
+- [Podcasts](#podcasts)
+- [Conferences](#conferences)
+- [Outreach Within NASA](#outreach-within-nasa)
 
 ## Overview
 
@@ -44,17 +49,13 @@ TOPS will build capacity for practicing open science by [attending scientific co
 Just as it is very important to spread awareness of Open Science to the broader research community, it is also very important to spread awareness and develop relationships within NASA. 
 
 ### Communities of Practice
-A community of practice is defined as a group of people who share a craft or a profession, in this case, those participating in or advocating for open-source science within and outside of NASA. To develop a community of practice in NASA, TOPS will build awareness and acceptance of the benefits of collaborative open-source science. Our team will:
-- Create a vibrant digital community through GitHub
-- Create an informative email list
-- Provide updates using social media
-- Share success stories and co-develop articles that share open science wins
-- Develop 3 [Space Apps Challenges](https://www.spaceappschallenge.org) centered around:
-  - Proposing challenge ideas as they relate to Open Science, the Year of Open Science, and other relevant scientific topics
-  - Promoting Space Apps through our outlets such as the TOPS newsletter, community forums, and our LinkedIn page
-  - Promoting the Open Science curriculum and assisting with metrics tracking of shared links
-- Engage with NASA's Minority University Research and Engagement Program (MUREP)
-- Engage stakeholders through the [ESIP Open Source Science Transformation Cluster](https://wiki.esipfed.org/Open_Science_Cluster)
+A community of practice is defined as a group of people who share a craft or a profession.  In this case, those participating in or advocating for open-source science. TOPS will build such as community through a GitHub repository, an informative Newsletter, a LinkedIn group, and Space Apps Challenges.
+
+### Space Apps Challenges:
+
+  - [Make a Moonquake Map!](https://www.spaceappschallenge.org/2023/challenges/make-a-moonquake-map-20/)
+  - [Mapping data for societal benefit](https://www.spaceappschallenge.org/2023/challenges/mapping-data-for-societal-benefit/)
+  - [A Marketplace for Open Science Projects](https://www.spaceappschallenge.org/2023/challenges/a-marketplace-for-open-science-projects/)
 
 ### TOPS Champions
 
