@@ -265,4 +265,4 @@ To become a contributor, open an issue, pull request, or discussion to help impr
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! Don't see your name? Let us know by [emailing us](mailto:hq-openscience@mail.nasa.gov).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! Don't see your name? Let us know by [emailing us](mailto:hq-openscience@mail.nasa.gov), submitting an [issue](https://github.com/nasa/Transform-to-Open-Science/issues), or starting a [discussion](https://github.com/nasa/Transform-to-Open-Science/discussions).
